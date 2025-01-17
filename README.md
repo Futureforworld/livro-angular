@@ -12,7 +12,12 @@ Bem-vindo ao repositório **Livro Angular**! Este projeto explora o framework An
 - **Angular** (versão mais recente compatível)  
 - **TypeScript**  
 - **HTML5**  
-- **CSS3**  
+- **CSS3**
+
+🌟 Sobre o Projeto
+O projeto Livro Angular foi criado para aprofundar o conhecimento sobre Angular, explorando suas funcionalidades principais e aplicando-as em um contexto prático.
+
+Contribuições são bem-vindas! Caso tenha sugestões, abra uma issue ou envie um pull request.
 
 ## 📂 Estrutura do Projeto  
 ```plaintext
@@ -28,7 +33,3 @@ livro-angular/
 ├── package.json          # Dependências do projeto
 └── README.md             # Documentação do projeto
 
-🌟 Sobre o Projeto
-O projeto Livro Angular foi criado para aprofundar o conhecimento sobre Angular, explorando suas funcionalidades principais e aplicando-as em um contexto prático.
-
-Contribuições são bem-vindas! Caso tenha sugestões, abra uma issue ou envie um pull request.
