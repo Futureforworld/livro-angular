@@ -1,27 +1,34 @@
-# LivrosAngular
+# Livro Angular 📘  
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+Bem-vindo ao repositório **Livro Angular**! Este projeto explora o framework Angular para criar aplicações web modernas e robustas, com ênfase em boas práticas e organização de código.  
 
-## Development server
+## ✨ Funcionalidades  
+- **Arquitetura baseada em Módulos**: Organização modular para maior escalabilidade.  
+- **Componentes Reutilizáveis**: Criação de interfaces dinâmicas e consistentes.  
+- **Injeção de Dependência**: Facilita o gerenciamento de serviços em toda a aplicação.  
+- **Rotas Dinâmicas**: Navegação fluida entre páginas da aplicação.  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Tecnologias Utilizadas  
+- **Angular** (versão mais recente compatível)  
+- **TypeScript**  
+- **HTML5**  
+- **CSS3**  
 
-## Code scaffolding
+## 📂 Estrutura do Projeto  
+```plaintext
+livro-angular/
+│
+├── src/
+│   ├── app/              # Módulos e componentes principais
+│   ├── assets/           # Recursos estáticos (imagens, ícones, etc.)
+│   ├── environments/     # Configurações de ambiente
+│   └── main.ts           # Ponto de entrada da aplicação
+│
+├── angular.json          # Configuração do Angular CLI
+├── package.json          # Dependências do projeto
+└── README.md             # Documentação do projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+🌟 Sobre o Projeto
+O projeto Livro Angular foi criado para aprofundar o conhecimento sobre Angular, explorando suas funcionalidades principais e aplicando-as em um contexto prático.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contribuições são bem-vindas! Caso tenha sugestões, abra uma issue ou envie um pull request.
